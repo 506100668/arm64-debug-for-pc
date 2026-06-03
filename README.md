@@ -183,3 +183,5 @@ test.bat 10       :: 最多运行 10 秒（超时退出码 124）
 
 - 项目名：**arm64-debug-for-pc**
 - 窗口标题：**Just_client**（公众号：零基础学逆向）
+<img width="258" height="258" alt="qrcode_for_gh_33543c91b3c5_258" src="https://github.com/user-attachments/assets/ce533a51-999a-4585-9f60-83f7c8c30782" />
+
